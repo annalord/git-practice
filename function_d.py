@@ -1,6 +1,13 @@
 def max_value(numbers):
+<<<<<<< HEAD
     return max(numbers)
     
+=======
+    """ This function returns the largest number
+        in the list.
+    """
+    return max(numbers)
+>>>>>>> 9db3971e9fd0b6e9c818a63669c9613b7c6da8a6
 
 
 if __name__ == "__main__":
